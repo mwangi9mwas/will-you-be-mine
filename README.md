@@ -10,7 +10,7 @@
             text-align: center;
             font-family: 'Pacifico', cursive;
             margin-top: 100px;
-            background: url('https://source.unsplash.com/1600x900/?love,romantic') no-repeat center center fixed;
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://source.unsplash.com/1600x900/?love,romantic') no-repeat center center fixed; background-color: #ff6699;
             background-size: cover;
             color: white;
             height: 100vh;
